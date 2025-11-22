@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=Welcome+to+PROJECT+JIBSZZ STORE+[VPN]" alt="Project Rerechan VPN">
+  <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=Welcome+to+PROJECT+JIBSZZ+STORE+[VPN]" alt="JIBSZZ STORE VPN">
 </p>
 
 ---
 
-<h1 align="center">📡 Project Rerechan VPN</h1>
+<h1 align="center">📡 Project Jibszz VPN</h1>
 <p align="center">
   Powerful and secure VPN service with advanced features for all your needs.
 </p>
@@ -104,31 +104,4 @@ Detail: Ubuntu. We have tried testing on all LTS and Non LTS versions with code 
 - BOT TELEGRAM GUI SCRIPT 
 - BOT NOTIFICATION AUTO BACKUP DATABASE
 
----
-
-## Support
-
-Please join the following Telegram groups and channels to get information about Patches or things related to improving script functions.
-- Telegram : [Rerechan02](https://t.me/Rerechan02)
-- Telegram Channel : [Project Rerechan](https://t.me/project_rerechan)
-
-
-## DONATE
-- BTC
-`1GS4zqRvi1nLJU39mvudJCumuVT6Txkr6w`
----
-- USDT TRON(TRC20)
-`TEqnt3ahz1mQvyfQPdkYsXufDxEaiyFFXV`
----
-- TRX [ Network TRX ]
-`TEqnt3ahz1mQvyfQPdkYsXufDxEaiyFFXV`
----
-- BNB
-`0x5320479f39d88b3739b86bfcc8c96c986baa5746`
----
-- ETH
-`0x0492aed81dfbfbafdc7b2f88afd4f494c3f6fcb7`
----
-- DOGE
-`DDXTGN6iNa4BGkYYkE46VY5yS2rrcv3bgh`
 ---
