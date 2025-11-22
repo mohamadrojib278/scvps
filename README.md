@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=Welcome+to+PROJECT+JIBSZZ+STORE+[VPN]" alt="JIBSZZ STORE VPN">
+  <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=Welcome+to+PROJECT+JIBSZZ+[VPN]" alt="JIBSZZ STORE VPN">
 </p>
 
 ---
